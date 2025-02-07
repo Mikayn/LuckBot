@@ -18,7 +18,7 @@
    ```
 2. Install the libraries required from `requirements.txt`
 
-3. Make your own bot in Discord's [developer portal.](discord.com/developers/applications)
+3. Make your own bot in Discord's [developer portal.](https://discord.com/developers/applications)
 4. Create a `.env` file and add your bot token as:
 ```sh
 TOKEN=your_bot_token
